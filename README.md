@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Compukid
 - 👀 I’m interested in powershell and configuring software
 - 🌱 I’m currently learning python and Azure
-- 💞️ I’m looking to collaborate on powershell scripting or any cloud projects
+- 💞️ I’m looking to collaborate on powershell scripting or any setting up software
 - 📫 How to reach me compukid377@gmail.com
 
 <!---
